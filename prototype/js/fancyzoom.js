@@ -48,22 +48,22 @@ var FancyZoomBox = {
                   <table id="zoom_table" style="border-collapse:collapse; width:100%; height:100%;"> \
                     <tbody> \
                       <tr> \
-                        <td class="tl" style="background:url(' + FancyZoomBox.directory + '/tl.png) 0 0 no-repeat; width:20px; height:20px; overflow:hidden;" /> \
-                        <td class="tm" style="background:url(' + FancyZoomBox.directory + '/tm.png) 0 0 repeat-x; height:20px; overflow:hidden;" /> \
-                        <td class="tr" style="background:url(' + FancyZoomBox.directory + '/tr.png) 100% 0 no-repeat; width:20px; height:20px; overflow:hidden;" /> \
+                        <td class="tl" style="background:url(' + FancyZoomBox.directory + '/tl.png) 0 0 no-repeat; width:20px; height:20px; overflow:hidden;">&nbsp;</td> \
+                        <td class="tm" style="background:url(' + FancyZoomBox.directory + '/tm.png) 0 0 repeat-x; height:20px; overflow:hidden;">&nbsp;</td> \
+                        <td class="tr" style="background:url(' + FancyZoomBox.directory + '/tr.png) 100% 0 no-repeat; width:20px; height:20px; overflow:hidden;">&nbsp;</td> \
                       </tr> \
                       <tr> \
-                        <td class="ml" style="background:url(' + FancyZoomBox.directory + '/ml.png) 0 0 repeat-y; width:20px; overflow:hidden;" /> \
+                        <td class="ml" style="background:url(' + FancyZoomBox.directory + '/ml.png) 0 0 repeat-y; width:20px; overflow:hidden;">&nbsp;</td> \
                         <td class="mm" style="background:#fff; vertical-align:top; padding:10px;"> \
                           <div id="zoom_content"> \
                           </div> \
                         </td> \
-                        <td class="mr" style="background:url(' + FancyZoomBox.directory + '/mr.png) 100% 0 repeat-y;  width:20px; overflow:hidden;" /> \
+                        <td class="mr" style="background:url(' + FancyZoomBox.directory + '/mr.png) 100% 0 repeat-y;  width:20px; overflow:hidden;">&nbsp;</td> \
                       </tr> \
                       <tr> \
-                        <td class="bl" style="background:url(' + FancyZoomBox.directory + '/bl.png) 0 100% no-repeat; width:20px; height:20px; overflow:hidden;" /> \
-                        <td class="bm" style="background:url(' + FancyZoomBox.directory + '/bm.png) 0 100% repeat-x; height:20px; overflow:hidden;" /> \
-                        <td class="br" style="background:url(' + FancyZoomBox.directory + '/br.png) 100% 100% no-repeat; width:20px; height:20px; overflow:hidden;" /> \
+                        <td class="bl" style="background:url(' + FancyZoomBox.directory + '/bl.png) 0 100% no-repeat; width:20px; height:20px; overflow:hidden;">&nbsp;&nbsp;&nbsp;&nbsp;</td> \
+                        <td class="bm" style="background:url(' + FancyZoomBox.directory + '/bm.png) 0 100% repeat-x; height:20px; overflow:hidden;">&nbsp;</td> \
+                        <td class="br" style="background:url(' + FancyZoomBox.directory + '/br.png) 100% 100% no-repeat; width:20px; height:20px; overflow:hidden;">&nbsp;&nbsp;&nbsp;&nbsp;</td> \
                       </tr> \
                     </tbody> \
                   </table> \
